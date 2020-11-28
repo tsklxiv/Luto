@@ -44,7 +44,6 @@ while True:
             [cmd]help[/cmd]: Display this help
             [cmd]quit[/cmd] or [cmd]exit[/cmd]: Quit the program
             [cmd]delete_all[/cmd]: Delete all the todos
-            [cmd]clear[/cmd]: Clear the screen
 
             # [b]Further features:[/b]
                 [cmd]delete_tag[/cmd]: Delete every todo that has the same tag
