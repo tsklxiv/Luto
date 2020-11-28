@@ -48,7 +48,6 @@ while True:
 
             # [b]Further features:[/b]
                 [cmd]delete_tag[/cmd]: Delete every todo that has the same tag
-                [cmd]save[/cmd]: Save the todo list app into a database (Planned to use MariaDB)
         """)
     elif parts[0] == "delete":
         try:
