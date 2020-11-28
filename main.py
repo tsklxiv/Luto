@@ -39,8 +39,8 @@ while True:
         Luto version 1.0.0
 
         [b]Commands[/b]:
-            [cmd]add[/cmd]: Add a todos
-            [cmd]delete[/cmd]: Delete a todos
+            [cmd]add[/cmd]: Add a todo
+            [cmd]delete[/cmd]: Delete a todo
             [cmd]help[/cmd]: Display this help
             [cmd]quit[/cmd] or [cmd]exit[/cmd]: Quit the program
             [cmd]delete_all[/cmd]: Delete all the todos
