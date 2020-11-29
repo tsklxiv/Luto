@@ -39,16 +39,14 @@ while True:
         Luto version 1.0.0
 
         [b]Commands[/b]:
-            [cmd]add[/cmd]: Add a todos
-            [cmd]delete[/cmd]: Delete a todos
+            [cmd]add[/cmd]: Add a todo
+            [cmd]delete[/cmd]: Delete a todo
             [cmd]help[/cmd]: Display this help
             [cmd]quit[/cmd] or [cmd]exit[/cmd]: Quit the program
             [cmd]delete_all[/cmd]: Delete all the todos
-            [cmd]clear[/cmd]: Clear the screen
 
             # [b]Further features:[/b]
                 [cmd]delete_tag[/cmd]: Delete every todo that has the same tag
-                [cmd]save[/cmd]: Save the todo list app into a database (Planned to use MariaDB)
         """)
     elif parts[0] == "delete":
         try:

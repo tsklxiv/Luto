@@ -1,6 +1,6 @@
 # Luto
 
-A simple, minimal todo list app. Written in Python
+Luto is a simple, minimal todo list app. Written in Python
 
 # About
 
