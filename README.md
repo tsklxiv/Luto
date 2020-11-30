@@ -1,6 +1,6 @@
 # Luto
 
-Luto is a simple, minimal todo list app. Written in Python
+Luto is a simple, minimal todo list app.
 
 # About
 
@@ -16,6 +16,8 @@ Luto is a small, simple todo list app for your everyday works. It has only the f
 - [x] Support deleting all the todos
 - [ ] Support deleting todos based on tag
 - And many more features that I want to add...
+
+__Note__: This is still in development, if you find a bug or error, please create an issue! Thank you for reading this! :smiley:
 
 # Getting started
 
@@ -62,8 +64,8 @@ Here are some basic commands in Luto:
 
 # Help
 
-If you see a bug or an error, just push one at the `Issues` page!
-If you want to contribute, you can fork it and make it better!
+Again, if you find a bug or an error, just create an issue!
+And if you want to contribute, you can fork it and make it better!
 
 # License
 
