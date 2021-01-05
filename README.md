@@ -58,7 +58,7 @@ Here are some basic commands in Luto:
 - __quit__ or __exit__: Quit the program
 - __delete_all__: Delete all the todos
 - __clear__: Clear the screen
-- __delete_tag__ + `name` (Further features): Delete every todo that has the same tag is `name`
+- __delete_tag__ + `tag` (Further features): Delete every todo that has the same tag is `tag`
 
 # Help
 
