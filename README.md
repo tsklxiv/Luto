@@ -9,13 +9,12 @@ Luto is a small, simple todo list app for your everyday works. It has only the f
 # Features
 - [ ] Saving your todo list in a database
 - [x] Support tag and tag colors
-- [ ] Support 2 modes of rendering the todo:
+- [x] Support 2 modes of rendering the todo:
    - Basic mode: Simple rendering (Supported!)
    - Board mode: Rendering the todo like a board
 - [x] Support simple adding and deleting a todo
 - [x] Support deleting all the todos
 - [ ] Support deleting todos based on tag
-- And many more features that I want to add...
 
 # Getting started
 
@@ -58,6 +57,7 @@ Here are some basic commands in Luto:
 - __help__: Prints the help page
 - __quit__ or __exit__: Quit the program
 - __delete_all__: Delete all the todos
+- __clear__: Clear the screen
 - __delete_tag__ + `name` (Further features): Delete every todo that has the same tag is `name`
 
 # Help
