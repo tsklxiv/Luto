@@ -2,10 +2,6 @@
 
 Luto is a simple, minimal todo list app. Written in Python
 
-# About
-
-Luto is a small, simple todo list app for your everyday works. It has only the features you need:
-
 # Features
 - [ ] Saving your todo list in a database
 - [x] Support tag and tag colors
@@ -51,7 +47,7 @@ If you see it, that means that Luto has successfully worked! :smiley:
 
 # Commands
 
-Here are some basic commands in Luto:
+Here is the complete list of commands in Luto:
 - __add__: Add a todo
 - __delete__: Delete a todo
 - __help__: Prints the help page
